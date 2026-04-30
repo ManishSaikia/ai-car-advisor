@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "make": "Tata",
+    "model": "Nexon EV",
+    "variant": "Empowered Plus Long Range",
+    "year": 2025,
+    "price_inr": 1950000,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "engine_cc": 0,
+    "mileage_kmpl": 0,
+    "range_km": 465,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Bharat NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 143,
+      "torque_nm": 215,
+      "boot_space_litres": 350,
+      "ground_clearance_mm": 205,
+      "features": ["10.25-inch Touchscreen", "Ventilated Seats", "360-degree Camera", "V2L Technology", "Sunroof"]
+    },
+    "user_review": {
+      "summary": "Excellent city SUV with great range and top-notch safety. The tech features are best in class but service can be hit or miss.",
+      "pros": ["Low running cost", "Feature loaded", "Safe and sturdy"],
+      "cons": ["Rear seat headroom", "Software bugs"],
+      "typical_buyer": "Tech-savvy urban families wanting a safe, green commute."
+    }
+  },
+  {
+    "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "ZXi Plus AMT",
+    "year": 2025,
+    "price_inr": 920000,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1197,
+    "mileage_kmpl": 22.5,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 2
+    },
+    "specs": {
+      "power_bhp": 89,
+      "torque_nm": 113,
+      "boot_space_litres": 268,
+      "ground_clearance_mm": 163,
+      "features": ["SmartPlay Pro+", "Cruise Control", "LED Projector Headlamps", "Keyless Entry", "Auto AC"]
+    },
+    "user_review": {
+      "summary": "The ultimate budget-friendly city car. Very reliable, fun to drive, and incredibly fuel-efficient, though safety is a concern.",
+      "pros": ["Great mileage", "Peppy engine", "Low maintenance"],
+      "cons": ["Low safety rating", "Build quality feels light"],
+      "typical_buyer": "First-time buyers and college students looking for reliability."
+    }
+  },
+  {
+    "id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "make": "Hyundai",
+    "model": "Creta",
+    "variant": "SX(O) Diesel AT",
+    "year": 2025,
+    "price_inr": 2000000,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "engine_cc": 1493,
+    "mileage_kmpl": 19.1,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 3
+    },
+    "specs": {
+      "power_bhp": 114,
+      "torque_nm": 250,
+      "boot_space_litres": 433,
+      "ground_clearance_mm": 190,
+      "features": ["Panoramic Sunroof", "Bose Sound System", "Ventilated Front Seats", "Level 2 ADAS", "Digital Instrument Cluster"]
+    },
+    "user_review": {
+      "summary": "A comfortable and feature-rich family SUV. The diesel engine is refined and offers great highway efficiency.",
+      "pros": ["Premium interiors", "Smooth diesel auto", "Huge feature list"],
+      "cons": ["Polarizing design", "Not the sportiest handler"],
+      "typical_buyer": "Status-conscious families wanting comfort and features."
+    }
+  },
+  {
+    "id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7 L Diesel AT AWD",
+    "year": 2025,
+    "price_inr": 2650000,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "engine_cc": 2184,
+    "mileage_kmpl": 14.5,
+    "range_km": null,
+    "seating_capacity": 7,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 182,
+      "torque_nm": 450,
+      "boot_space_litres": 240,
+      "ground_clearance_mm": 200,
+      "features": ["AWD System", "Level 2 ADAS", "Sony 3D Audio", "Skyroof", "Memory Seats"]
+    },
+    "user_review": {
+      "summary": "A powerhouse of an SUV with unmatched performance in its segment. Superb safety and tech, though waiting periods are long.",
+      "pros": ["Powerful engine", "Top-notch safety", "High-tech cabin"],
+      "cons": ["High waiting period", "Thirsty engine in city"],
+      "typical_buyer": "Large families who enjoy road trips and powerful engines."
+    }
+  },
+  {
+    "id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "GTX+ 1.5 DCT",
+    "year": 2025,
+    "price_inr": 2000000,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1482,
+    "mileage_kmpl": 16.5,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 3
+    },
+    "specs": {
+      "power_bhp": 158,
+      "torque_nm": 253,
+      "boot_space_litres": 433,
+      "ground_clearance_mm": 190,
+      "features": ["HUD", "Ventilated Seats", "ADAS Level 2", "Bose Audio", "Dual Zone AC"]
+    },
+    "user_review": {
+      "summary": "Sporty alternative to the Creta with aggressive styling. The turbo-petrol DCT combo is thrilling to drive.",
+      "pros": ["Stunning looks", "Punchy turbo engine", "Feature loaded"],
+      "cons": ["Stiff ride quality", "Average safety rating"],
+      "typical_buyer": "Young professionals who love driving and tech."
+    }
+  },
+  {
+    "id": "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "variant": "ZX(O) Hybrid",
+    "year": 2025,
+    "price_inr": 3100000,
+    "body_type": "muv",
+    "fuel_type": "hybrid",
+    "transmission": "automatic",
+    "engine_cc": 1987,
+    "mileage_kmpl": 23.24,
+    "range_km": null,
+    "seating_capacity": 7,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 0
+    },
+    "specs": {
+      "power_bhp": 184,
+      "torque_nm": 206,
+      "boot_space_litres": 300,
+      "ground_clearance_mm": 185,
+      "features": ["Ottoman Seats", "ADAS", "Panoramic Sunroof", "JBL Audio", "Powered Tailgate"]
+    },
+    "user_review": {
+      "summary": "The king of comfort in India just got hybrid efficiency. Unbeatable space and reliability, though quite expensive.",
+      "pros": ["Incredible mileage for size", "Supreme comfort", "Toyota reliability"],
+      "cons": ["Very expensive", "Interior plastics feel cheap for the price"],
+      "typical_buyer": "Chauffeur-driven owners and large affluent families."
+    }
+  },
+  {
+    "id": "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+    "make": "Honda",
+    "model": "City",
+    "variant": "ZX e:HEV",
+    "year": 2025,
+    "price_inr": 2050000,
+    "body_type": "sedan",
+    "fuel_type": "hybrid",
+    "transmission": "automatic",
+    "engine_cc": 1498,
+    "mileage_kmpl": 27.13,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 124,
+      "torque_nm": 253,
+      "boot_space_litres": 306,
+      "ground_clearance_mm": 165,
+      "features": ["Honda Sensing ADAS", "LaneWatch Camera", "Hybrid Powertrain", "Electric Sunroof", "Leather Seats"]
+    },
+    "user_review": {
+      "summary": "A timeless sedan made future-proof with hybrid tech. Extremely refined and comfortable, but boot space is compromised.",
+      "pros": ["Stellar fuel efficiency", "Spacious back seat", "Refined drive"],
+      "cons": ["Small boot due to battery", "Infotainment is outdated"],
+      "typical_buyer": "Executives who commute long distances daily."
+    }
+  },
+  {
+    "id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+    "make": "Skoda",
+    "model": "Slavia",
+    "variant": "1.5 TSI Style DSG",
+    "year": 2025,
+    "price_inr": 1900000,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1498,
+    "mileage_kmpl": 18.4,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 148,
+      "torque_nm": 250,
+      "boot_space_litres": 521,
+      "ground_clearance_mm": 179,
+      "features": ["Virtual Cockpit", "Ventilated Seats", "Subwoofer", "Sunroof", "6 Airbags"]
+    },
+    "user_review": {
+      "summary": "A driver's delight. The 1.5 TSI is arguably the best engine in this segment, though DSG reliability is always a lingering thought.",
+      "pros": ["Exceptional performance", "Class-leading boot space", "Very safe"],
+      "cons": ["AC cooling issues", "DSG gearbox concerns"],
+      "typical_buyer": "Enthusiasts who prefer sedans over SUVs."
+    }
+  },
+  {
+    "id": "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+    "make": "MG",
+    "model": "Comet EV",
+    "variant": "Plush",
+    "year": 2025,
+    "price_inr": 950000,
+    "body_type": "hatchback",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "engine_cc": 0,
+    "mileage_kmpl": 0,
+    "range_km": 230,
+    "seating_capacity": 4,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 0
+    },
+    "specs": {
+      "power_bhp": 41,
+      "torque_nm": 110,
+      "boot_space_litres": 0,
+      "ground_clearance_mm": 164,
+      "features": ["Dual 10.25-inch Screens", "Keyless Entry", "LED Lights", "Connected Car Tech", "Apple CarPlay"]
+    },
+    "user_review": {
+      "summary": "A funky, ultra-compact city EV that turns heads. Perfect for tight parking, but useless for highway runs.",
+      "pros": ["Extremely easy to park", "Premium interior quality", "Low running cost"],
+      "cons": ["Zero boot space", "Bumpy ride quality"],
+      "typical_buyer": "Urban dwellers needing a second car for errands."
+    }
+  },
+  {
+    "id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+    "make": "Tata",
+    "model": "Punch",
+    "variant": "Creative AMT",
+    "year": 2025,
+    "price_inr": 900000,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1199,
+    "mileage_kmpl": 18.8,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 86,
+      "torque_nm": 115,
+      "boot_space_litres": 366,
+      "ground_clearance_mm": 187,
+      "features": ["7-inch Touchscreen", "Auto Headlamps", "Rain Sensing Wipers", "Cruise Control", "Alloy Wheels"]
+    },
+    "user_review": {
+      "summary": "Looks like an SUV, priced like a hatchback. The safest small car you can buy, but the AMT gearbox is quite sluggish.",
+      "pros": ["SUV styling", "Excellent safety", "High seating position"],
+      "cons": ["Sluggish AMT", "Engine lacks punch"],
+      "typical_buyer": "Budget buyers wanting SUV appeal and safety."
+    }
+  },
+  {
+    "id": "1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "variant": "RWD",
+    "year": 2025,
+    "price_inr": 4600000,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "engine_cc": 0,
+    "mileage_kmpl": 0,
+    "range_km": 631,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Euro NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 214,
+      "torque_nm": 350,
+      "boot_space_litres": 527,
+      "ground_clearance_mm": 163,
+      "features": ["V2L", "Relaxation Seats", "Vision Roof", "Bose Audio", "ADAS Level 2"]
+    },
+    "user_review": {
+      "summary": "A retro-futuristic masterpiece. Incredibly spacious and comfortable, offering a truly premium EV experience.",
+      "pros": ["Stunning design", "Lounge-like cabin", "Super fast charging capability"],
+      "cons": ["Low ground clearance", "Expensive"],
+      "typical_buyer": "Wealthy early adopters looking for a statement EV."
+    }
+  },
+  {
+    "id": "2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "variant": "ZXi Plus CNG",
+    "year": 2025,
+    "price_inr": 1180000,
+    "body_type": "muv",
+    "fuel_type": "cng",
+    "transmission": "manual",
+    "engine_cc": 1462,
+    "mileage_kmpl": 26.11,
+    "range_km": null,
+    "seating_capacity": 7,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 3
+    },
+    "specs": {
+      "power_bhp": 86,
+      "torque_nm": 121,
+      "boot_space_litres": 209,
+      "ground_clearance_mm": 180,
+      "features": ["SmartPlay Studio", "Auto AC", "Push Button Start", "Alloy Wheels", "Roof Mounted AC"]
+    },
+    "user_review": {
+      "summary": "The default choice for a budget 7-seater. The CNG option makes running costs remarkably low, though boot space takes a hit.",
+      "pros": ["Superb running cost", "Practical cabin", "Reliable engine"],
+      "cons": ["No automatic in CNG", "Basic interior quality"],
+      "typical_buyer": "Large middle-class families and fleet operators."
+    }
+  },
+  {
+    "id": "3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+    "make": "Mahindra",
+    "model": "Thar",
+    "variant": "LX Diesel AT 4x4",
+    "year": 2025,
+    "price_inr": 1700000,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "engine_cc": 2184,
+    "mileage_kmpl": 15.2,
+    "range_km": null,
+    "seating_capacity": 4,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 4
+    },
+    "specs": {
+      "power_bhp": 130,
+      "torque_nm": 300,
+      "boot_space_litres": 0,
+      "ground_clearance_mm": 226,
+      "features": ["4x4 System", "Hard Top", "Touchscreen", "Cruise Control", "Washable Interior"]
+    },
+    "user_review": {
+      "summary": "The ultimate lifestyle vehicle. Go anywhere capability with immense road presence, but very impractical for daily family use.",
+      "pros": ["Unmatched off-road ability", "Iconic design", "Strong diesel engine"],
+      "cons": ["Bouncy ride", "Impractical boot and rear seats"],
+      "typical_buyer": "Off-road enthusiasts and those wanting high street cred."
+    }
+  },
+  {
+    "id": "4n5o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+    "make": "Tata",
+    "model": "Safari",
+    "variant": "Accomplished Plus",
+    "year": 2025,
+    "price_inr": 2550000,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "engine_cc": 1956,
+    "mileage_kmpl": 14.08,
+    "range_km": null,
+    "seating_capacity": 7,
+    "safety_rating": {
+      "source": "Bharat NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 168,
+      "torque_nm": 350,
+      "boot_space_litres": 73,
+      "ground_clearance_mm": 205,
+      "features": ["JBL 10-speaker audio", "ADAS", "Ventilated 1st & 2nd Row", "Gesture Tailgate", "Panoramic Sunroof"]
+    },
+    "user_review": {
+      "summary": "A massive, commanding 7-seater that is loaded with features. Extremely safe but let down by Tata's inconsistent service network.",
+      "pros": ["Imposing looks", "Feature packed", "5-star safety"],
+      "cons": ["No petrol option", "Heavy steering at low speeds"],
+      "typical_buyer": "Buyers wanting a butch, safe, and feature-rich 7-seater."
+    }
+  },
+  {
+    "id": "5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "variant": "GT Plus 1.5 TSI DSG",
+    "year": 2025,
+    "price_inr": 1950000,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1498,
+    "mileage_kmpl": 18.67,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 148,
+      "torque_nm": 250,
+      "boot_space_litres": 521,
+      "ground_clearance_mm": 179,
+      "features": ["Blacked-out alloys", "Red brake calipers", "Ventilated seats", "Electric sunroof", "10-inch infotainment"]
+    },
+    "user_review": {
+      "summary": "The sexiest sedan in the segment with performance to match. The GT badge brings serious thrill, but it demands premium fuel.",
+      "pros": ["Thrilling performance", "Gorgeous design", "Solid build quality"],
+      "cons": ["Interior plastics could be better", "Expensive maintenance"],
+      "typical_buyer": "Driving purists who appreciate German engineering."
+    }
+  },
+  {
+    "id": "6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+    "make": "BYD",
+    "model": "Atto 3",
+    "variant": "Superior",
+    "year": 2025,
+    "price_inr": 3400000,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "engine_cc": 0,
+    "mileage_kmpl": 0,
+    "range_km": 521,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Euro NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 201,
+      "torque_nm": 310,
+      "boot_space_litres": 440,
+      "ground_clearance_mm": 175,
+      "features": ["Rotating Touchscreen", "Blade Battery", "ADAS Level 2", "Panoramic Sunroof", "PM 2.5 Filter"]
+    },
+    "user_review": {
+      "summary": "A quirky and extremely capable electric SUV. The Blade battery tech is top-tier, but the interior design is polarizing.",
+      "pros": ["Excellent battery tech", "Quirky features", "Refined drive"],
+      "cons": ["Polarizing interior styling", "Limited brand network"],
+      "typical_buyer": "Tech enthusiasts wanting a unique, high-range EV."
+    }
+  },
+  {
+    "id": "7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "variant": "Alpha 1.0 Turbo AT",
+    "year": 2025,
+    "price_inr": 1300000,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 998,
+    "mileage_kmpl": 20.01,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 0
+    },
+    "specs": {
+      "power_bhp": 99,
+      "torque_nm": 147,
+      "boot_space_litres": 308,
+      "ground_clearance_mm": 190,
+      "features": ["HUD", "360 Camera", "Paddle Shifters", "Wireless Charger", "6 Airbags"]
+    },
+    "user_review": {
+      "summary": "A stylish crossover based on the Baleno. The turbo engine is fun, and it looks much more expensive than it is.",
+      "pros": ["Striking design", "Punchy turbo engine", "Feature loaded"],
+      "cons": ["Rear headroom is tight", "Safety rating unknown"],
+      "typical_buyer": "Young professionals upgrading from a small hatchback."
+    }
+  },
+  {
+    "id": "8r9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "variant": "Legender 4x4 AT",
+    "year": 2025,
+    "price_inr": 4800000,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "engine_cc": 2755,
+    "mileage_kmpl": 14.4,
+    "range_km": null,
+    "seating_capacity": 7,
+    "safety_rating": {
+      "source": "ASEAN NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 201,
+      "torque_nm": 500,
+      "boot_space_litres": 296,
+      "ground_clearance_mm": 225,
+      "features": ["Kick sensor tailgate", "Ventilated seats", "11-speaker JBL", "Dual-tone roof", "4x4"]
+    },
+    "user_review": {
+      "summary": "The undisputed king of Indian roads. Bulletproof reliability and immense resale value, though severely overpriced for the features offered.",
+      "pros": ["Incredible reliability", "Massive road presence", "Resale value"],
+      "cons": ["Very overpriced", "Heavy steering", "Stiff ride"],
+      "typical_buyer": "Politicians, businessmen, and those wanting ultimate road respect."
+    }
+  },
+  {
+    "id": "9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+    "make": "MG",
+    "model": "Hector",
+    "variant": "Savvy Pro CVT",
+    "year": 2025,
+    "price_inr": 2200000,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1451,
+    "mileage_kmpl": 13.5,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 0
+    },
+    "specs": {
+      "power_bhp": 141,
+      "torque_nm": 250,
+      "boot_space_litres": 587,
+      "ground_clearance_mm": 192,
+      "features": ["14-inch Portrait Screen", "ADAS Level 2", "Auto Turn Indicators", "Panoramic Sunroof", "Voice Commands"]
+    },
+    "user_review": {
+      "summary": "A tech-lover's dream with an iPad-like screen. Extremely spacious and plush, but the petrol engine is quite thirsty.",
+      "pros": ["Massive interior space", "Huge tech feature list", "Soft ride quality"],
+      "cons": ["Poor fuel economy", "Body roll in corners"],
+      "typical_buyer": "Tech-obsessed buyers prioritizing space over performance."
+    }
+  },
+  {
+    "id": "0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+    "make": "Kia",
+    "model": "Carens",
+    "variant": "Luxury Plus 1.5 Diesel AT",
+    "year": 2025,
+    "price_inr": 1900000,
+    "body_type": "muv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "engine_cc": 1493,
+    "mileage_kmpl": 21.3,
+    "range_km": null,
+    "seating_capacity": 6,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 3
+    },
+    "specs": {
+      "power_bhp": 114,
+      "torque_nm": 250,
+      "boot_space_litres": 216,
+      "ground_clearance_mm": 195,
+      "features": ["Captain Seats", "Bose Audio", "Sky Light Sunroof", "Ventilated Seats", "Air Purifier"]
+    },
+    "user_review": {
+      "summary": "A brilliant family mover disguised as an SUV. The diesel auto is smooth and the cabin is extremely practical.",
+      "pros": ["Versatile seating", "Feature rich", "Smooth diesel auto"],
+      "cons": ["Odd exterior design", "Average safety score"],
+      "typical_buyer": "Families needing 6-7 seats but wanting SUV features."
+    }
+  },
+  {
+    "id": "1u2v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+    "make": "Tata",
+    "model": "Tiago EV",
+    "variant": "XZ+ Tech LUX Long Range",
+    "year": 2025,
+    "price_inr": 1150000,
+    "body_type": "hatchback",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "engine_cc": 0,
+    "mileage_kmpl": 0,
+    "range_km": 315,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 4
+    },
+    "specs": {
+      "power_bhp": 74,
+      "torque_nm": 114,
+      "boot_space_litres": 240,
+      "ground_clearance_mm": 166,
+      "features": ["Harman Audio", "Auto AC", "Cruise Control", "Regen Braking", "ZConnect App"]
+    },
+    "user_review": {
+      "summary": "The most sensible entry-level EV right now. Drives well, feels sturdy, and drastically cuts down monthly fuel bills.",
+      "pros": ["Low running cost", "Safe build", "Good audio system"],
+      "cons": ["Range drop on highway", "Slow charging speeds"],
+      "typical_buyer": "Commuters seeking an affordable and safe entry into EVs."
+    }
+  },
+  {
+    "id": "2v3w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+    "make": "Hyundai",
+    "model": "Verna",
+    "variant": "SX(O) 1.5 Turbo DCT",
+    "year": 2025,
+    "price_inr": 1750000,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1482,
+    "mileage_kmpl": 20.6,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 158,
+      "torque_nm": 253,
+      "boot_space_litres": 528,
+      "ground_clearance_mm": 170,
+      "features": ["Heated & Ventilated Seats", "Level 2 ADAS", "Bose System", "Switchable AC/Infotainment controls", "LED Light bar"]
+    },
+    "user_review": {
+      "summary": "Radical styling combined with explosive performance and a 5-star safety rating. A very complete sedan package.",
+      "pros": ["Powerful turbo engine", "Best-in-class features", "Very safe"],
+      "cons": ["Polarizing looks", "Low seating position"],
+      "typical_buyer": "Young executives who want tech and performance."
+    }
+  },
+  {
+    "id": "3w4x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+    "make": "Renault",
+    "model": "Kiger",
+    "variant": "RXZ Turbo CVT",
+    "year": 2025,
+    "price_inr": 1100000,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 999,
+    "mileage_kmpl": 18.2,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 4
+    },
+    "specs": {
+      "power_bhp": 99,
+      "torque_nm": 152,
+      "boot_space_litres": 405,
+      "ground_clearance_mm": 205,
+      "features": ["Wireless Apple CarPlay", "Drive Modes", "LED Headlamps", "Digital cluster", "Air purifier"]
+    },
+    "user_review": {
+      "summary": "A highly underrated compact SUV. The Turbo CVT combo is incredibly smooth and it offers a massive boot for its size.",
+      "pros": ["Value for money", "Smooth CVT", "Huge boot space"],
+      "cons": ["Cabin feels slightly cheap", "Renault service network"],
+      "typical_buyer": "Budget-conscious buyers wanting a proper automatic."
+    }
+  },
+  {
+    "id": "4x5y6z7a-8b9c-0d1e-2f3g-4h5i6j7k8l9m",
+    "make": "Toyota",
+    "model": "Glanza",
+    "variant": "V AMT",
+    "year": 2025,
+    "price_inr": 1000000,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "engine_cc": 1197,
+    "mileage_kmpl": 22.94,
+    "range_km": null,
+    "seating_capacity": 5,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 0
+    },
+    "specs": {
+      "power_bhp": 89,
+      "torque_nm": 113,
+      "boot_space_litres": 318,
+      "ground_clearance_mm": 170,
+      "features": ["360 Camera", "HUD", "UV Protect Glass", "Cruise Control", "Toyota Connect"]
+    },
+    "user_review": {
+      "summary": "Essentially a Baleno with a Toyota badge, offering the same great efficiency but with a slightly better warranty package.",
+      "pros": ["Excellent mileage", "Spacious cabin", "Toyota service experience"],
+      "cons": ["AMT is jerky", "Poor safety rating"],
+      "typical_buyer": "Practical city dwellers wanting peace of mind."
+    }
+  },
+  {
+    "id": "5y6z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "variant": "Z8L Diesel 4x4 AT",
+    "year": 2025,
+    "price_inr": 2450000,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "engine_cc": 2184,
+    "mileage_kmpl": 14.0,
+    "range_km": null,
+    "seating_capacity": 7,
+    "safety_rating": {
+      "source": "Global NCAP",
+      "stars": 5
+    },
+    "specs": {
+      "power_bhp": 172,
+      "torque_nm": 400,
+      "boot_space_litres": 460,
+      "ground_clearance_mm": 187,
+      "features": ["4Xplor System", "Sony 3D Audio", "Powered Front Seat", "Front Camera", "Sunroof"]
+    },
+    "user_review": {
+      "summary": "The Big Daddy of SUVs. It combines rugged ladder-frame toughness with modern features and a surprisingly premium cabin.",
+      "pros": ["Macho appeal", "Go-anywhere capability", "Premium interiors"],
+      "cons": ["Third row is cramped", "Heavy fuel consumption"],
+      "typical_buyer": "Buyers who want a tough, go-anywhere SUV with modern comforts."
+    }
+  }
+]

@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .animate-bounce-delay-100 {
+    animation-delay: 100ms;
+  }
+  .animate-bounce-delay-200 {
+    animation-delay: 200ms;
+  }
+}
+
+body {
+  background-color: #f8fafc; /* Slate 50 */
+  color: #0f172a; /* Slate 900 */
+}
